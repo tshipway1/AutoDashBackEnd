@@ -12,4 +12,4 @@ ecu:
   oil_low_limit: 15 # psi
   voltage_low_limit: 11.8 #volts
   engine_temp_high: 250 # F degrees
-  speedo: 'CAN' # false / 'CAN' / 'GPS' - false if no speedo, 'CAN' if using speedo from CAN, 'GPS' if using GPS for speedo
+  speedo: false # false / 'CAN' / 'GPS' - false if no speedo, 'CAN' if using speedo from CAN, 'GPS' if using GPS for speedo
